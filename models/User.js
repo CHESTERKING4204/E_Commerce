@@ -28,17 +28,17 @@ const userSchema = new mongoose.Schema({
 userSchema.statics.signup = async function(email,password){
     //********Commenting Out the valid email and passsword column for ease*******************/
     
-    // if(!email || !password){
-    //     throw Error('Not the valis credentials');
-    // }
+    if(!email || !password){
+        throw Error('Not the valis credentials');
+    }
 
-    // if(!validator.isEmail(email)){
-    //     throw Error('Not a valid Email');
-    // }
+    if(!validator.isEmail(email)){
+        throw Error('Not a valid Email');
+    }
 
-    // if(!validator.isStrongPassword(password)){
-    //     throw Error('Not a string password');
-    // }
+    if(!validator.isStrongPassword(password)){
+        throw Error('Not a string password');
+    }
 
     const newUser = { email, password };
 
