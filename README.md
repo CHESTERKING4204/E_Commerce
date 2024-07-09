@@ -45,7 +45,7 @@ After this you are good to explore the store
 ![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/548f2443-75e0-4711-824f-bd5aec403805)
 
 
-<h1>Tech Stack:</h1><br><br>
+<h1>Tech Stack:</h1>
             <bold>ReactJS</bold><br>
             <bold>MongoDB</bold><br>
             <bold>NodeJS</bold><br>
