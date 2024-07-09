@@ -1,0 +1,83 @@
+/* animations.css */
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD:wght@100..400&display=swap');
+
+@keyframes colorChange {
+
+  0%,
+  100% {
+    color: red;
+    background-color: white;
+  }
+
+  50% {
+    color: white;
+    background-color: red;
+  }
+}
+
+.animate-colorChange {
+  animation: colorChange 2s infinite;
+}
+
+.LChangeRed {
+  background: linear-gradient(to left, #1E293B 50%, red 50%) right;
+  background-size: 200%;
+  transition: background-position 0.5s ease-out;
+}
+
+.LChangeRed:hover {
+  background-position: left;
+}
+.LChangeGreen {
+  background: linear-gradient(to left, #1E293B 50%, green 50%) right;
+  background-size: 200%;
+  transition: background-position 0.5s ease-out;
+}
+
+.LChangeGreen:hover {
+  background-position: left;
+}
+.LChangeGToR {
+  background: linear-gradient(to left, #1E293B 50%, red 50%) right;
+  background-size: 200%;
+  transition: background-position 0.5s ease-out;
+}
+
+.LChangeGToR:hover {
+  background-position: left;
+}
+
+.RChangeBlue {
+  background: linear-gradient(to right, #1E293B 50%, rgb(48, 27, 245) 50%) left;
+  background-size: 200%;
+  transition: background-position 0.5s ease-out;
+}
+
+.RChangeBlue:hover {
+  background-position: right;
+}
+
+.RChangeViolet {
+  background: linear-gradient(to right, #1E293B 50%, #8b5cf6 50%) left;
+  background-size: 200%;
+  transition: background-position 0.5s ease-out;
+}
+
+.RChangeViolet:hover {
+  background-position: right;
+}
+
+
+
+#section1 {
+  display: flex;
+  position: relative;
+  height: 420px;
+}
+
+#Font {
+  font-family: "Playwrite AU QLD", cursive;
+  font-optical-sizing: auto;
+  font-weight: 150px;
+  font-style: normal;
+}
