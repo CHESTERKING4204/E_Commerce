@@ -9,8 +9,8 @@ Fork The repository and follow the steps:
 
 
 2.Make a ' .env ' file in the backend and there make the </br>
-      PORT - To run on the desired port,
-      URI - MongoDB server string,
+      PORT - To run on the desired port,</br>
+      URI - MongoDB server string,</br>
       SECRET - For hashing of the JWT(Json Web Token) 
 
 ![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/a62650fe-3459-4350-bf7c-6577db2d98d6)
