@@ -8,7 +8,7 @@ Fork The repository and follow the steps:
   This will install all the package required for the proper functioning of the shop
 
 
-2.Make a ' .env ' file in the backend and there make the 
+2.Make a ' .env ' file in the backend and there make the </br>
       PORT - To run on the desired port,
       URI - MongoDB server string,
       SECRET - For hashing of the JWT(Json Web Token) 
