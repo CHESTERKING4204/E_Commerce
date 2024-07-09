@@ -17,7 +17,7 @@ Fork The repository and follow the steps:
 
 After this you are good to explore the store
 
- <strong>Home Page</strong>
+ <h2><strong>Home Page</strong>
 ![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/05e5d407-11e0-4554-8cdb-4e58f630c94a)
 ![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/803d6d7a-4951-4125-b853-650eb652ab57)
 
