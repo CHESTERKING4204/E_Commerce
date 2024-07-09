@@ -17,8 +17,8 @@ Fork The repository and follow the steps:
 
 After this you are good to go to the store
 
-Tech Stack:
-            ReactJS
-            MongoDB
-            NodeJS
+Tech Stack:<br>
+            ReactJS<br>
+            MongoDB<br>
+            NodeJS<br>
             ExpressJS
