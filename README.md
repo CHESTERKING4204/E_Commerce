@@ -42,8 +42,8 @@ After this you are good to explore the store
 
 
 
-Tech Stack:<br><br>
-            ReactJS<br>
-            MongoDB<br>
-            NodeJS<br>
-            ExpressJS
+<h1>Tech Stack:</h1>h1><br><br>
+            <bold>ReactJS</bold><br>
+            <bold>MongoDB</bold><br>
+            <bold>NodeJS</bold><br>
+            <bold>ExpressJS</bold>
