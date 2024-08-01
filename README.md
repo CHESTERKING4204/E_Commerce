@@ -4,7 +4,7 @@ It contains many awesome features.
 Fork The repository and follow the steps:
 
 1.Open Frontend and Backend in 2 different terminal and write the command <br>
-     <t>' npm install '<br>
+    <strong> <t>' npm install '</t></strong><br>
   This will install all the package required for the proper functioning of the shop
 
 
