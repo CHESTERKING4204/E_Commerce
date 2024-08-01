@@ -1,52 +1,60 @@
-Here are some of the highlight of the online shop that I have made 
-It contains many awesome features.
+# Online Shop
 
-Fork The repository and follow the steps:
+Welcome to the Online Shop project! This repository contains a full-fledged e-commerce website with an array of awesome features. Follow the steps below to get started.
 
-1.Open Frontend and Backend in 2 different terminal and write the command <br>
-    <strong> <t>' npm install '</t></strong><br>
-  This will install all the package required for the proper functioning of the shop
+## Getting Started
 
+Fork the repository and follow the steps:
 
-2.Make a ' .env ' file in the backend and there make the </br>
-      <t>PORT - To run on the desired port,</br>
-      <t>URI - MongoDB server string,</br>
-      <t>SECRET - For hashing of the JWT(Json Web Token) 
+1. Open Frontend and Backend in two different terminals and run the following command in each:
+    ```bash
+    npm install
+    ```
+   This will install all the packages required for the proper functioning of the shop.
 
-![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/a62650fe-3459-4350-bf7c-6577db2d98d6)
+2. Create a `.env` file in the backend and add the following environment variables:
+    - **PORT**: Desired port number
+    - **URI**: MongoDB server string
+    - **SECRET**: For hashing the JWT (JSON Web Token)
 
-After this you are good to explore the store
+![Setup Image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/a62650fe-3459-4350-bf7c-6577db2d98d6)
 
-<h2><strong>Home Page</strong></h2>
+After this, you are ready to explore the store.
 
-![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/05e5d407-11e0-4554-8cdb-4e58f630c94a)
-![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/803d6d7a-4951-4125-b853-650eb652ab57)
+## Home Page
 
-<h2><strong>SignIn Page</strong></h2>
+![Home Page](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/05e5d407-11e0-4554-8cdb-4e58f630c94a)
+![Home Page](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/803d6d7a-4951-4125-b853-650eb652ab57)
 
-![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/a64a266e-2e39-47c0-bba8-1516fb738b46)
+## SignIn Page
 
-<h2><strong>Product Page (Not Login)</strong></h2>
+![SignIn Page](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/a64a266e-2e39-47c0-bba8-1516fb738b46)
 
-![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/07109c38-c8f6-419e-b218-a9a0e6b604fc)
+## Product Page (Not Logged In)
 
+![Product Page (Not Logged In)](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/07109c38-c8f6-419e-b218-a9a0e6b604fc)
 
-<h2><strong>LogIn Page</strong></h2>
+## LogIn Page
 
-![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/e985da97-ff36-46a2-80fb-1104fff07a96)
+![LogIn Page](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/e985da97-ff36-46a2-80fb-1104fff07a96)
 
+## Product Page (Logged In)
 
-<h2><strong>Product Page(Login)</strong></h2>
+![Product Page (Logged In)](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/a0f0793c-3a76-4f4b-bb73-f10649319496)
 
-![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/a0f0793c-3a76-4f4b-bb73-f10649319496)
+## Add Product
 
-<h2><strong>Add Product</strong></h2>
+![Add Product](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/548f2443-75e0-4711-824f-bd5aec403805)
 
-![image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/548f2443-75e0-4711-824f-bd5aec403805)
+## Tech Stack
 
+- **ReactJS**
+- **MongoDB**
+- **NodeJS**
+- **ExpressJS**
 
-<h1>Tech Stack:</h1>
-            <bold>ReactJS</bold><br>
-            <bold>MongoDB</bold><br>
-            <bold>NodeJS</bold><br>
-            <bold>ExpressJS</bold>
+Feel free to explore the project and contribute!
+
+---
+
+Enjoy your shopping experience! 🛍️
