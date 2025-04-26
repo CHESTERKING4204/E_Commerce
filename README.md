@@ -19,6 +19,16 @@ Fork the repository and follow the steps:
 
 ![Setup Image](https://github.com/CHESTERKING4204/Online_Shop/assets/114911683/a62650fe-3459-4350-bf7c-6577db2d98d6)
 
+3. Now in the Frontend paste the following command
+   ```bash
+   cd src
+   npm start
+   ```
+4. For the backend paste the following command
+   ```bash
+   node server.js
+   ```
+
 After this, you are ready to explore the store.
 
 ## Home Page
