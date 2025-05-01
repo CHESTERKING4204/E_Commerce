@@ -63,10 +63,10 @@ After this, you are ready to explore the store.
 - **NodeJS**
 - **ExpressJS**
 
-Feel free to explore the project and contribute!
-Don't forget to star the repo
-Keep Growing keep innovating!!
-
+!!Feel free to explore the project and contribute!!
+!!Don't forget to star the repo!!
+!!Keep Growing keep innovating!!
+!!Happy Coding , Happy Life!!
 ---
 
 Enjoy your shopping experience! 🛍️
