@@ -64,9 +64,9 @@ After this, you are ready to explore the store.
 - **ExpressJS**
 
 ---------
-!!Feel free to explore the project and contribute!!
-!!Don't forget to star the repo!!
-!!Keep Growing keep innovating!!
+!!Feel free to explore the project and contribute!!<br>
+!!Don't forget to star the repo!!<br>
+!!Keep Growing keep innovating!!<br>
 !!Happy Coding , Happy Life!!
 ---------
 
